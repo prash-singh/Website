@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student | Home </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>STUDENT BENIFITS </h1>
+    </header>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Referance Notes</a>
+        <a href="#">Previous Year Papers</a>
+        <a href="#">Videos Links</a>
+    </nav>
+
+    <section>
+        <h2>Referance Notes</h2>
+        <div class="notes">
+            <a target="blank" href="#"><img src="Images/First Year.png" alt="" width="24%" height="60%"></a>
+            <a target="blank" href="#"><img src="Images/Second Year.png" alt="" width="24%" height="60%"></a>
+            <a target="blank" href="#"><img src="Images/Third Year.png" alt="" width="24%" height="60%"></a>
+            <a target="blank" href="#"><img src="Images/Fourth Year.png" alt="" width="24%" height="60%"></a>
+        </div>
+    </section>
+    <section>
+        <h2>Previous Year Papers</h2>
+        <div class="notes">
+            <a target="blank" href="#"><img src="Images/First Year paper.png" alt="" width="24%" height="60%"></a>
+            <a target="blank" href="#"><img src="Images/Second Year paper.png" alt="" width="24%" height="60%"></a>
+            <a target="blank" href="#"><img src="Images/Third Year paper.png" alt="" width="24%" height="60%"></a>
+            <a target="blank" href="#"><img src="Images/Fourth Year paper.png" alt="" width="24%" height="60%"></a>
+        </div>
+    </section>
+
+    <section>
+        <h2>Video Links</h2>
+        <div class="notes">
+            <a target="blank" href="First_year_video_link.html"><img src="Images/First Year video.png" alt="" width="24%" height="60%"></a>
+            <a target="blank" href="#"><img src="Images/Second Year Video.png" alt="" width="24%" height="60%"></a>
+            <a target="blank" href="#"><img src="Images/Third Year Video.png" alt="" width="24%" height="60%"></a>
+            <a target="blank" href="#"><img src="Images/Fourth Year Video.png" alt="" width="24%" height="60%"></a>
+        </div>
+    </section>
+</body>
+
+</html>
